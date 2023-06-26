@@ -4,4 +4,4 @@ Earth Day is an annual event on April 22 to demonstrate support for environmenta
 
 ### Earth Day 2022
 
-![Image of output](https://github.com/DmitryKuligin/EarthDaySwiftUI/main/output.png)
+![Image of output](output.png)
